@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^0.26.0",
+    "chalk": "^2.4.1",
+    "express": "^4.17.3",
+    "jimp": "^0.16.1",
+    "nodemon": "^2.0.15",
+    "yargs": "^17.4.1"
+  },
+  "name": "trabajo4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
